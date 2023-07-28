@@ -1,4 +1,4 @@
-# PortalsPE PM4
+# PortalsPE PM5
 A PocketMine-MP portal plugin.
 
 Latest release: https://poggit.pmmp.io/p/PortalsPE/
